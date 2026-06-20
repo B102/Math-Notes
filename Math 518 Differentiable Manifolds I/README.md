@@ -1,4 +1,4 @@
-These notes came from professor Dan Berwick-Evans class. Needless to day, he's good!
+These notes came from professor Dan Berwick-Evans class. Needless to day, he's good! We followed Lee's book.
 
 (10/16/2024) This note only covers the first 10 lectures - (category theory + *some* homotopy stuff). Thanks to Andy, now we have a better ToC and fancy styles!\
 (11/14/2024) Lecture 11 of week 6 is now up. But Lecture 12 is taking longer than I expected. Also wrote something relevant to recent lectures.\
