@@ -1,4 +1,4 @@
-These notes came from professor Igor Mineyev's class. We're following Munkre's book. Patch notes
+These notes came from professor Igor Mineyev's class. We're following Munkre's book. Patch notes:
 
 (12/20/2024) Section 1-5,7 are done (for now).
 (12/25/2024) First 8 sections are done. 9 is done except for Arzela.
